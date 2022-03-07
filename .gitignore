@@ -1,0 +1,9 @@
+*.out
+*.o
+*.exe
+*.stackdump
+*.swp
+build/
+.DS_Store
+*.log
+*.py[cx]
